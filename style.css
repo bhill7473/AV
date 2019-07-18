@@ -3,7 +3,17 @@ margin-top: 100px;
 }
 body{
     background-color: lightgray;
+    padding:0;
 }
 .c{
     width:350px;
+}
+.container{
+    height:1000px;
+}
+.blk{
+    background-color:black !important;
+}
+.texts{
+    font-size: 80px;
 }
