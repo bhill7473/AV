@@ -17,3 +17,9 @@ body{
 .texts{
     font-size: 80px;
 }
+.marg-right{
+    margin-left:50px;
+}
+.card-marg{
+margin-top:25px;
+}
