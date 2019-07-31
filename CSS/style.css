@@ -1,3 +1,6 @@
+.nav-item{
+    margin-right: 50px;
+}
 .marg-row{
 margin-top: 100px;
 }
@@ -16,7 +19,7 @@ margin-top: 100px;
     
 }
 body{
-    background-color: lightgray;
+    background-color: black !important;
     padding:0;
 }
 .c{
@@ -25,7 +28,7 @@ body{
 .container3{
     height:400px;
 }
-.container{
+.container1{
     height:1000px;
 }
 .blk{
@@ -49,7 +52,7 @@ footer {
   }
   #pic {
 margin-right:20px;
-height:600px;
+height:575px;
 width:600px;
         }
   @media only screen and (max-width: 769px) {
@@ -69,3 +72,4 @@ height:300px;
 width:300px;
     }
   }
+  
