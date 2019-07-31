@@ -76,6 +76,9 @@ width:600px;
     #pic {
 height:300px;
 width:300px;
+margin-left:60px;
+    }
+    form{
+        margin-left:30px;
     }
   }
-  
